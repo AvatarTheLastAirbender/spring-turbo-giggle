@@ -1,2 +1,2 @@
 # spring-turbo-giggle
-Basic Project Structure with Security
+Basic Spring Project Structure with Security
