@@ -1,0 +1,508 @@
+----------------------------------------------------------------
+Sun Oct 23 11:52:43 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/3d511358-86b5-4522-a9f4-9f171d10c89a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:54:04 IST 2022:
+Shutting down instance a816c00e-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/3d511358-86b5-4522-a9f4-9f171d10c89a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:54:07 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0ddd00a9-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/7092d771-10b7-48a9-b21f-7e6b995a91bc with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:54:19 IST 2022:
+Shutting down instance 0ddd00a9-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/7092d771-10b7-48a9-b21f-7e6b995a91bc with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:54:22 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0b198144-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/f50b8adf-724a-4bfe-a712-45e8cec4b9a7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:55:41 IST 2022:
+Shutting down instance 0b198144-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/f50b8adf-724a-4bfe-a712-45e8cec4b9a7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:55:44 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cfcc41df-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/7f52458f-b481-4877-a97e-f8591496c961 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:55:51 IST 2022:
+Shutting down instance cfcc41df-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/7f52458f-b481-4877-a97e-f8591496c961 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:55:53 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8bf5427a-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/c2ea66b5-4767-491c-b9e6-f1497ee6baa1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:57:26 IST 2022:
+Shutting down instance 8bf5427a-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/c2ea66b5-4767-491c-b9e6-f1497ee6baa1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:57:28 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6f948315-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/af013822-3b2d-48ab-87fc-a9fe912bafc5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:57:33 IST 2022:
+Shutting down instance 6f948315-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/af013822-3b2d-48ab-87fc-a9fe912bafc5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:57:35 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance aaaa03b0-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1b54df0f-1e2b-4bd6-aca0-0746674b5a3a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:57:36 IST 2022:
+Shutting down instance aaaa03b0-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1b54df0f-1e2b-4bd6-aca0-0746674b5a3a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:57:36 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6d35c44b-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1b54df0f-1e2b-4bd6-aca0-0746674b5a3a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:59:04 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e648844c-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1de8d5a1-7c76-44c9-b4d4-3879814a08af with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:59:04 IST 2022:
+Shutting down instance e648844c-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1de8d5a1-7c76-44c9-b4d4-3879814a08af with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:59:04 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e07144e7-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1de8d5a1-7c76-44c9-b4d4-3879814a08af with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:59:25 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 39ab04e8-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/603055b9-8e53-4b2e-ac90-91fb116f6ac9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 11:59:26 IST 2022:
+Shutting down instance 39ab04e8-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/603055b9-8e53-4b2e-ac90-91fb116f6ac9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 11:59:26 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6b70c583-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/603055b9-8e53-4b2e-ac90-91fb116f6ac9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:00:08 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a4d18584-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/0ad0eec5-a969-4047-98fb-2b2525bc4cef with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:00:08 IST 2022:
+Shutting down instance a4d18584-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/0ad0eec5-a969-4047-98fb-2b2525bc4cef with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Sun Oct 23 12:00:08 IST 2022 Thread[Thread-142,5,main] Cleanup action starting
+java.sql.SQLException: Database 'memory:0ad0eec5-a969-4047-98fb-2b2525bc4cef' not found.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: ERROR XJ004: Database 'memory:0ad0eec5-a969-4047-98fb-2b2525bc4cef' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 17 more
+============= begin nested exception, level (1) ===========
+ERROR XJ004: Database 'memory:0ad0eec5-a969-4047-98fb-2b2525bc4cef' not found.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.newSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleDBNotFound(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+============= end nested exception, level (1) ===========
+Cleanup action completed
+----------------------------------------------------------------
+Sun Oct 23 12:00:08 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0e34461f-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/0ad0eec5-a969-4047-98fb-2b2525bc4cef with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:00:13 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 27bc0620-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/0fe9e07f-49bb-4e2e-baa9-22f73317ed34 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:00:13 IST 2022:
+Shutting down instance 27bc0620-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/0fe9e07f-49bb-4e2e-baa9-22f73317ed34 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:00:13 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c8bbc6bb-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/0fe9e07f-49bb-4e2e-baa9-22f73317ed34 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:01:20 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c26a86bc-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/e5864cef-1892-46f7-b6e9-f2db4cb43043 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:01:30 IST 2022:
+Shutting down instance c26a86bc-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/e5864cef-1892-46f7-b6e9-f2db4cb43043 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:01:33 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9b074757-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1b33bc55-2877-4367-aa47-d82553ea9172 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:01:44 IST 2022:
+Shutting down instance 9b074757-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/1b33bc55-2877-4367-aa47-d82553ea9172 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:01:47 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a500c803-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/682298b2-0d59-453f-bbe8-527092dbd948 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:01:53 IST 2022:
+Shutting down instance a500c803-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/682298b2-0d59-453f-bbe8-527092dbd948 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:01:55 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cbde48af-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/e7739b2b-28b6-402a-a45f-ce216e8c53f2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:13:59 IST 2022:
+Shutting down instance cbde48af-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/e7739b2b-28b6-402a-a45f-ce216e8c53f2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:14:01 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f167c966-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/d1f552ce-8c8e-47f8-96e8-11138c4dcced with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:14:02 IST 2022:
+Shutting down instance f167c966-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/d1f552ce-8c8e-47f8-96e8-11138c4dcced with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:14:13 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b3e64a12-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/40be04c3-adfe-418d-92e1-665d8f253b7a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:14:14 IST 2022:
+Shutting down instance b3e64a12-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/40be04c3-adfe-418d-92e1-665d8f253b7a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:21:15 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9348cabe-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/4693a6ef-2fbc-4774-b9c9-be6f86d20976 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:21:22 IST 2022:
+Shutting down instance 9348cabe-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/4693a6ef-2fbc-4774-b9c9-be6f86d20976 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:21:24 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8f8f4b6a-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/51328bb5-1923-4f53-889e-f9185d56edd7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:21:53 IST 2022:
+Shutting down instance 8f8f4b6a-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/51328bb5-1923-4f53-889e-f9185d56edd7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:22:21 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a8b9cc16-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/721450ee-5b40-479f-80b7-c8496dd60064 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:24:39 IST 2022:
+Shutting down instance a8b9cc16-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/721450ee-5b40-479f-80b7-c8496dd60064 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:24:45 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 251eccce-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/9a1a49a9-b644-4e8b-a750-021378befd38 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:25:04 IST 2022:
+Shutting down instance 251eccce-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/9a1a49a9-b644-4e8b-a750-021378befd38 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:25:15 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7a154d7a-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/989816f2-3404-4c3f-a972-b112320c165a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:29:20 IST 2022:
+Shutting down instance 7a154d7a-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/989816f2-3404-4c3f-a972-b112320c165a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:29:27 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance fbc10e38-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/d4590a2a-2fbe-4c9f-b812-38c91fe3c168 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:30:05 IST 2022:
+Shutting down instance fbc10e38-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/d4590a2a-2fbe-4c9f-b812-38c91fe3c168 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:30:07 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8d858ee4-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/21014d09-b791-4537-8e4a-e3af76bc4fb7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 12:30:08 IST 2022:
+Shutting down instance 8d858ee4-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/21014d09-b791-4537-8e4a-e3af76bc4fb7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+----------------------------------------------------------------
+Sun Oct 23 12:30:16 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3c2e0f90-0184-0382-03ad-00000d7f7e00 
+on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/6e8d9fc2-4a95-4acc-9723-19dae45d3580 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 
+Loaded from file:/home/suren/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.17+8-LTS
+user.dir=/home/suren/IdeaProjects/spring-turbo-giggle
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

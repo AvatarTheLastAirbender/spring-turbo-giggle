@@ -1,6 +1,6 @@
 package com.giggle.api.security.filters;
 
-import com.giggle.api.model.component.UserDetails;
+import com.giggle.api.model.component.CustomUserDetails;
 import com.giggle.api.security.util.JwtUtil;
 import com.giggle.api.service.SuperUserService;
 import io.jsonwebtoken.ExpiredJwtException;
@@ -42,11 +42,11 @@ public class JwtRequestFilter extends OncePerRequestFilter {
         }
 
         if (username != null && SecurityContextHolder.getContext().getAuthentication() == null) {
-            UserDetails userDetails = this.superUserService.loadUserByUsername(username);
+            CustomUserDetails customUserDetails = superUserService.loadUserByUsername(username);
 
-            if (jwtUtil.validateToken(jwt, userDetails)) {
+            if (jwtUtil.validateToken(jwt, customUserDetails)) {
                 UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken =
-                        new UsernamePasswordAuthenticationToken(userDetails, null, userDetails.getAuthorities());
+                        new UsernamePasswordAuthenticationToken(customUserDetails, null, customUserDetails.getAuthorities());
                 usernamePasswordAuthenticationToken.setDetails(new WebAuthenticationDetailsSource().buildDetails(request));
 
                 SecurityContextHolder.getContext().setAuthentication(usernamePasswordAuthenticationToken);
