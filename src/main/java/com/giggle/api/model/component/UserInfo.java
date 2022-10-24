@@ -4,40 +4,43 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
+import javax.persistence.*;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 
-//@Entity
-//@Table(name = "users")
-public class CustomUserDetails implements UserDetails {
-
-    private static long userCount = 1;
-    //    @Column(name = "name")
+@Entity
+@Table(name = "users")
+public class UserInfo implements UserDetails {
+    @Column(name = "name")
+    @Size(min = 5)
+    @NotNull
     private String username;
-    //    @Id
-//    @Column(name = "id", nullable = false)
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @Id
+    @Column(name = "id", nullable = false)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long userid;
-    //    @Column(name = "password")
+    @Column(name = "password")
+    @Size(min = 8)
+    @NotNull
     private String password;
-    //    @Column(name = "email")
+    @Column(name = "email")
+    @NotNull
     private String email;
-    //    @Column(name = "role")
+    @Column(name = "role")
+    @NotNull
     private String role;
 
-    public CustomUserDetails() {
-        System.out.println(this);
+    public UserInfo() {
     }
 
-    public CustomUserDetails(String username, String password, String email, String role) {
+    public UserInfo(String username, String password, String email, String role) {
         this.username = username;
         this.password = password;
         this.email = email;
         this.role = role;
-        System.out.println(this);
     }
 
     public long getUserid() {
@@ -91,6 +94,6 @@ public class CustomUserDetails implements UserDetails {
 
     @Override
     public String toString() {
-        return String.format("User = [ %S, %S, %S, %S ] ", username, password, userid, role);
+        return String.format("User = [ %s, %s, %s, %s ] ", username, password, userid, role);
     }
 }
