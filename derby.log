@@ -506,3 +506,6 @@ os.arch=amd64
 os.version=5.15.0-48-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Oct 23 14:43:06 IST 2022:
+Shutting down instance 3c2e0f90-0184-0382-03ad-00000d7f7e00 on database directory memory:/home/suren/IdeaProjects/spring-turbo-giggle/6e8d9fc2-4a95-4acc-9723-19dae45d3580 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c8da962 

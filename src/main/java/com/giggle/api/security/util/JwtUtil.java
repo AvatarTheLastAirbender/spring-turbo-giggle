@@ -1,8 +1,8 @@
 package com.giggle.api.security.util;
 
 
-import com.giggle.api.model.component.CustomUserDetails;
-import com.giggle.api.service.ConfigProperties;
+import com.giggle.api.model.component.UserInfo;
+import com.giggle.api.service.ApplicationPropertyService;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -18,11 +18,11 @@ import java.util.function.Function;
 public class JwtUtil {
 
     @Autowired
-    ConfigProperties configProp;
+    ApplicationPropertyService configProp;
 
-    public String generateToken(CustomUserDetails customUserDetails) {
+    public String generateToken(UserInfo userInfo) {
         Map<String, Object> claims = new HashMap<>();
-        return createToken(claims, customUserDetails.getUsername());
+        return createToken(claims, userInfo.getUsername());
     }
 
     private String createToken(Map<String, Object> claims, String subject) {
@@ -34,9 +34,9 @@ public class JwtUtil {
                 .signWith(SignatureAlgorithm.HS512, configProp.getConfigValue("spring.security.secret-key")).compact();
     }
 
-    public Boolean validateToken(String token, CustomUserDetails customUserDetails) {
+    public Boolean validateToken(String token, UserInfo userInfo) {
         final String username = extractUserName(token);
-        return (username.equals(customUserDetails.getUsername()) && !isTokenExpired(token));
+        return (username.equals(userInfo.getUsername()) && !isTokenExpired(token));
     }
 
     public String extractUserName(String token) {

@@ -1,6 +1,7 @@
 package com.giggle.api.model.component;
 
 import javax.persistence.*;
+import javax.validation.constraints.Future;
 import javax.validation.constraints.Size;
 
 @Entity
@@ -8,26 +9,39 @@ import javax.validation.constraints.Size;
 public class TodoInfo {
     @Id
     @Column(name = "todo_id", nullable = false)
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
     @Column(name = "message")
     @Size(min = 5)
     private String Message;
 
     @Column(name = "due_date", nullable = false)
+    @Future
     private String Date;
 
     @Column(name = "Status")
     private String Status;
+    @Column(name = "repeated_task")
+    private Boolean isRepeated;
 
     public TodoInfo() {
+        this.Status = "Not Completed";
+        this.isRepeated = false;
+    }
+
+    public TodoInfo(String message, String date, Boolean isRepeated) {
+        this.Message = message;
+        Date = date;
+        this.isRepeated = isRepeated;
         Status = "Not Completed";
     }
 
-    public TodoInfo(String message, String date) {
-        this.Message = message;
-        Date = date;
-        Status = "Not Completed";
+    public Boolean getRepeated() {
+        return isRepeated;
+    }
+
+    public void setRepeated(Boolean repeated) {
+        isRepeated = repeated;
     }
 
     public String getStatus() {
